@@ -4,7 +4,7 @@ description: 'Welcome to my blog - Sharing and connect people who love coding & 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: 'luanpham107.github.io'
-baseurl: ''
+baseurl: '/dtlt'
 disqus: ''
 email: 'luanphamDTLT@gmail.com'
 mailchimp-list: ''
