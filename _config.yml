@@ -1,0 +1,58 @@
+# Site
+name: 'DTLT'
+description: 'Welcome to my blog - Sharing and connect people who love coding & embedded'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+url: 'dtlt.github.io'
+baseurl: 'dtlt'
+disqus: ''
+email: 'luanphamDTLT@gmail.com'
+mailchimp-list: ''
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    lp107:
+      name:           Pham Ngoc Luan
+      site:           https://techmaker.vn
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Luan, the author of DTLT. I hope you like it!"
+      email:          luanphamDTLT@gmail.com
+      twitter:            
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
