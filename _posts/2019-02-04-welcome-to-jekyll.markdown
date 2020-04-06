@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Chào bạn đã đến với blog của mình"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Đây là blog cá nhân mình dùng để ghi chú và chia sẻ những kiến thức đã tích luỹ được trong quãng thời gian học tập cũng như làm việc trong ngành Embedded Software.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Mình hy vọng đây sẽ là 1 địa chỉ đáng tin cậy cho bạn đọc tìm đến những lúc muốn cập nhập trend kiến thức cho bản thân hoặc đơn giản là tìm người chém gió mỗi khi có ý tưởng mới mà không biết khoe cùng ai.
 
-Jekyll also offers powerful support for code snippets:
+Hy vọng sẽ góp 1 phần nào đó đem lại lợi ích cho bạn đọc.
 
 {% highlight ruby %}
 def print_hi(name)
@@ -18,8 +18,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Mã nguồn blog được xây dựng bằng [Jekyll][jekyll] các bạn có thể ghé [Jekyll’s GitHub repo][jekyll-gh] để biết thêm thông tin.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
