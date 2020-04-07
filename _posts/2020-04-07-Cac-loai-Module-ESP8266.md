@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Các loại Module ESP8266"
-author: jane
+author: luanpham
 categories: [ tutorial ]
 image: assets/images/modules/ESP-12E.jpg
 tags: [featured]
