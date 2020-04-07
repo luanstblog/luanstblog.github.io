@@ -39,7 +39,7 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 ### ESP-WROOM-02
 
-![](./assets/images/modules/ESP-WROOM-02.jpg)
+![](./../assets/images/modules/ESP-WROOM-02.jpg)
 
 #### Tính năng
 - ESP-WROOM-02 là một module MCU Wifi 32-bit tiết kiệm năng lượng dựa trên chip ESP8266.
