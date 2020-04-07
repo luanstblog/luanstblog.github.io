@@ -39,7 +39,7 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 ### ESP-WROOM-02
 
-![](assets/images/modules/ESP-WROOM-02.jpg)
+![](./../assets/images/modules/ESP-WROOM-02.jpg)
 
 #### Tính năng
 - ESP-WROOM-02 là một module MCU Wifi 32-bit tiết kiệm năng lượng dựa trên chip ESP8266.
@@ -52,13 +52,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 - Khoảng cách giữa các chân 2.54mm
 
 #### Sơ đồ chân 
-[![](assets/images/modules/ESP-WROOM-02-pin.png)](https://qiita-image-store.s3.amazonaws.com/0/55103/56eec04e-f231-8f4f-d792-840d36d791d7.png)
+[![](./../assets/images/modules/ESP-WROOM-02-pin.png)](https://qiita-image-store.s3.amazonaws.com/0/55103/56eec04e-f231-8f4f-d792-840d36d791d7.png)
 
 ---
 
 ### ESP-01
 
-![](assets/images/modules/ESP-01.jpg)
+![](./../assets/images/modules/ESP-01.jpg)
 
 #### Tính năng
 - Mạch nhỏ, gọn (24.75mm x 14.5mm)
@@ -70,13 +70,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 - Khoảng cách giữa các chân 2.54mm
 
 #### Sơ đồ chân
-[![](assets/images/modules/ESP-01-pin.png)](https://github.com/acrobotic/Ai_Docs/blob/master/pinouts/esp8266_esp01/esp8266_esp01.pdf)
+[![](./../assets/images/modules/ESP-01-pin.png)](https://github.com/acrobotic/Ai_Docs/blob/master/pinouts/esp8266_esp01/esp8266_esp01.pdf)
 
 ---
 
 ### ESP-02 
 
-![](images/modules/ESP-02.png)
+![](./../images/modules/ESP-02.png)
 
 #### Tính năng
 
@@ -89,13 +89,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-02-pinout.jpg)
+![](./../assets/images/modules/ESP-02-pinout.jpg)
 
 ---
 
 ### ESP-03
 
-![](assets/images/modules/ESP-03.jpg)
+![](./../assets/images/modules/ESP-03.jpg)
 
 #### Tính năng
 
@@ -109,13 +109,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-[![](assets/images/modules/ESP-03-pinout.png)](http://tech.scargill.net/wp-content/uploads/2014/12/esp03.jpg)
+[![](./../assets/images/modules/ESP-03-pinout.png)](http://tech.scargill.net/wp-content/uploads/2014/12/esp03.jpg)
 
 ---
 
 ### ESP-04
 
-![](assets/images/modules/ESP-04.jpg)
+![](./../assets/images/modules/ESP-04.jpg)
 
 #### Tính năng
 
@@ -127,13 +127,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-04-pinout.jpg)
+![](./../assets/images/modules/ESP-04-pinout.jpg)
 
 ---
 
 ### ESP-05
 
-![](assets/images/modules/ESP-05.jpg)
+![](./../assets/images/modules/ESP-05.jpg)
 
 #### Tính năng
 
@@ -146,13 +146,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-05-pinout.jpg)
+![](./../assets/images/modules/ESP-05-pinout.jpg)
 
 ---
 
 ### ESP-06
 
-![](assets/images/modules/ESP-06.jpg)
+![](./../assets/images/modules/ESP-06.jpg)
 
 #### Tính năng
 
@@ -164,13 +164,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-06-pinout.png)
+![](./../assets/images/modules/ESP-06-pinout.png)
 
 ---
 
 ### ESP-07
 
-![](assets/images/modules/ESP-07.jpg)
+![](./../assets/images/modules/ESP-07.jpg)
 
 #### Tính năng
 
@@ -183,13 +183,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-[![](assets/images/modules/ESP-07-pinout.png)](assets/images/modules/ESP-07-pinout.png)
+[![](./../assets/images/modules/ESP-07-pinout.png)](assets/images/modules/ESP-07-pinout.png)
 
 ---
 
 ### ESP-08
 
-![](assets/images/modules/ESP-08.jpg)
+![](./../assets/images/modules/ESP-08.jpg)
 
 #### Tính năng
 
@@ -201,13 +201,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-08-pinout.png)
+![](./../assets/images/modules/ESP-08-pinout.png)
 
 ---
 
 ### ESP-09
 
-![](assets/images/modules/ESP-09.jpg)
+![](./../assets/images/modules/ESP-09.jpg)
 
 #### Tính năng
 
@@ -218,13 +218,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-09-pinout.png)
+![](./../assets/images/modules/ESP-09-pinout.png)
 
 ---
 
 ### ESP-10
 
-![](assets/images/modules/ESP-10.jpg)
+![](./../assets/images/modules/ESP-10.jpg)
 
 #### Tính năng
 
@@ -236,13 +236,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-10-pinout.png)
+![](./../assets/images/modules/ESP-10-pinout.png)
 
 ---
 
 ### ESP-11
 
-![](assets/images/modules/ESP-11.jpg)
+![](./../assets/images/modules/ESP-11.jpg)
 
 #### Tính năng
 
@@ -254,13 +254,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-11-pinout.jpg)
+![](./../assets/images/modules/ESP-11-pinout.jpg)
 
 ---
 
 ### ESP-12
 
-![](assets/images/modules/ESP-12.jpeg)
+![](./../assets/images/modules/ESP-12.jpeg)
 
 #### Tính năng
 
@@ -271,13 +271,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-12-pinout.jpeg)
+![](./../assets/images/modules/ESP-12-pinout.jpeg)
 
 ---
 
 ### ESP-12E
 
-![](assets/images/modules/ESP-12E.jpg)
+![](./../assets/images/modules/ESP-12E.jpg)
 
 #### Tính năng
 
@@ -289,13 +289,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-[![](assets/images/modules/ESP-12E-pinout.png)](assets/images/modules/esp8266_esp12e.pdf)
+[![](./../assets/images/modules/ESP-12E-pinout.png)](assets/images/modules/esp8266_esp12e.pdf)
 
 ---
 
 ### ESP-13
 
-![](assets/images/modules/ESP-13.jpg)
+![](./../assets/images/modules/ESP-13.jpg)
 
 #### Tính năng
 
@@ -306,13 +306,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-13-pinout.png)
+![](./../assets/images/modules/ESP-13-pinout.png)
 
 ---
 
 ### ESP-14
 
-![](assets/images/modules/ESP-14.jpg)
+![](./../assets/images/modules/ESP-14.jpg)
 
 #### Tính năng
 
@@ -324,13 +324,13 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 #### Sơ đồ chân
 
-![](assets/images/modules/ESP-14-pinout.png)
+![](./../assets/images/modules/ESP-14-pinout.png)
 
 ---
 
 ### WT8266-S1
 
-![](assets/images/modules/WT8266-S1.jpg)
+![](./../assets/images/modules/WT8266-S1.jpg)
 
 #### Tính năng
 
@@ -351,4 +351,4 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
     
 #### Sơ đồ chân
 
-![](assets/images/modules/WT8266-S1-pinout.jpg)
+![](./../assets/images/modules/WT8266-S1-pinout.jpg)
