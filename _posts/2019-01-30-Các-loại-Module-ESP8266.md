@@ -4,7 +4,7 @@ ESP8266 cần ít nhất thêm 7 linh kiện nữa mới có thể hoạt độn
 
 ## Bảng so sánh các thông số
 
-| Phiên bản| Số chân   | pitch  | form factor | LEDs |Antenna|Ant.Socket| Shielded |dài mm | 
+| Phiên bản  | Số chân| pitch  | form factor | LEDs |Antenna        |Ant.Socket  | Shielded |dài mm         | 
 |------------|--------|--------|-------------|------|---------------|------------|----------|---------------| 
 | ESP-01     | 8      | .1“    | 2×4 DIL     | Yes  | Etched-on PCB | No         | No       | 14.3 x 24.8   | 
 | ESP-02     | 8      | .1”    | 2×4 notch   | No?  | None          | Yes        | No       | 14.2 x 14.2   | 
