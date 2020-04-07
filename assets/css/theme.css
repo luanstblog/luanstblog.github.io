@@ -683,11 +683,12 @@ article blockquote:before {
 	line-height:1;
 }
 article:first-letter {
-	float:left;
-	font-size:5em;
-	line-height:1;
-	margin:0 .2em 0 0;
-	vertical-align:top;
+	font-size: 2.5rem;
+	margin-bottom: 0.5rem;
+  	font-family: inherit;
+  	font-weight: 500;
+  	line-height: 1.2;
+  	color: inherit;
 }
 article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
 	margin-bottom:2rem;
