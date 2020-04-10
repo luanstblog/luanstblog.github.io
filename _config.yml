@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-url: luanpham107.github.io
+url: luaniot.github.io
 baseurl: 
 
 # Website info
@@ -26,8 +26,8 @@ navigation: True # show the navbar links
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
-youtube: channel/UCdHQ3vGxlk_KTWiqMG-1z7Q
+facebook: /kenhDTLT # replace by your username
+youtube: channel/UCQbleMCcdeFQOhPOVB9iSOQ
 # Disqus
 disqus: False
 disqus_shortname: jekyller # replace with your disqus username
